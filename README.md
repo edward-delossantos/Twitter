@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/4VFDVLZldA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/AnmQQNTDzp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Project 3 - *Twitter - Part I*
